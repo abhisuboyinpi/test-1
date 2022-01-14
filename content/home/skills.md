@@ -23,11 +23,11 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Environomics
+- description: 40%
   icon: laptop-code
   icon_pack: fas
-  name: Coding
+  name: Mathematics & Programming
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
