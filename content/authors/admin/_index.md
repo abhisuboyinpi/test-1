@@ -2,7 +2,7 @@
 title: Abhijith Suboyin
 role: Researcher / Petroleum Engineer ||  ideanco Climathon Winner Water
   Management || Analytics || Energy Innovation || Environomics ||
-avatar_filename: 1.-abhijith-suboyinku500245-research-associate-research-and-development.jpg
+avatar_filename: https://www.ku.ac.ae/wp-content/uploads/2020/08/2.-Abhijith-SuboyinKU500245-Research-Associate-Research-and-Development.jpg
 bio: Research oriented Petroleum Engineer with a Master of Science in Petroleum
   Engineering and proficiency in Reservoir Simulation, Production Optimization,
   Sustainable Strategies, Water Management and Unconventional Resources.
