@@ -1,77 +1,46 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Abhijith Suboyin
+role: Researcher / Petroleum Engineer ||  ideanco Climathon Winner Water
+  Management || Analytics || Energy Innovation || Environomics ||
+avatar_filename: 1.-abhijith-suboyinku500245-research-associate-research-and-development.jpg
+bio: Research oriented Petroleum Engineer with a Master of Science in Petroleum
+  Engineering and proficiency in Reservoir Simulation, Production Optimization,
+  Sustainable Strategies, Water Management and Unconventional Resources.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Petroleum Engineering
+  - Energy Economics
+  - Energy Innovation
+  - Sustainable Strategies
+  - Water Management
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=dHfFcIYAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/abhisuboyin
+organizations:
+  - name: Khalifa University
+    url: https://www.ku.ac.ae/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: M.Sc. (Petroleum Engineering)
+      institution: Khalifa University
+      year: 2018
+    - course: B.E. (Petroleum Engineering)
+      institution: MIT Pune (Former University of Pune)
+      year: 2014
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: true
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I was also the team leader for the winning cohort at ideanco CLIMATHON 2021, finalist for the Regional SPE Student Paper Contest and secured third for the SPE Abu Dhabi Young Professional Paper Contest (2019). In addition, I also played a significant role in supporting the ADNOC project and assisted in acquiring & planning a project worth $735K in Turkmenistan for enhancing oil recovery through the application of ‘Tailored Smart Brines’ and ‘Self-Adaptive-Polymers’. I was deeply honoured to be recently nominated for the ‘SPE Regional Young Member Outstanding Service Award’ for exceptional contribution to the petroleum industry as a young researcher in the MENA region.\
+\
+Owing to my passion towards research, I have multiple publications (peer-reviewed and conference proceedings) that reflect my drive for transformation and pursuit to catalyze a change in mind-set. To date, I have co-mentored over 100 students and guided them to successful completion of field management design projects along with assisting graduate students for their thesis investigations.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--EndFragment-->
