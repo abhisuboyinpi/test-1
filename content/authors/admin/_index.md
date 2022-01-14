@@ -45,4 +45,6 @@ I was also the team leader for the winning cohort at ideanco CLIMATHON 2021, fin
 \
 Owing to my passion towards research, I have multiple publications (peer-reviewed and conference proceedings) that reflect my drive for transformation and pursuit to catalyze a change in mind-set. To date, I have co-mentored over 100 students and guided them to successful completion of field management design projects along with assisting graduate students for their thesis investigations.
 
+
+
 <!--EndFragment-->
