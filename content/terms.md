@@ -1,6 +1,6 @@
 ---
 title: Terms
-date: 2022-01-14T16:09:15.030Z
+date: 2022-01-14T16:13:58.260Z
 draft: true
 share: false
 commentable: false
