@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-date: 2022-01-13T23:00:00.000Z
+date: 2022-01-14T11:15:53.066Z
 draft: true
 share: false
 commentable: false
