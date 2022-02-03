@@ -51,4 +51,6 @@ url_code: ""
 The hydrocarbon industry with its highly advanced technology and significant capital can play a key role in championing the efforts towards efficient water management strategies. This study involved a comprehensive investigation to understand hydraulic fracture propagation behavior in the presence of natural fractures
 within Middle Eastern shale gas reservoirs. The factors that affect productivity were analyzed through simple constrained cases to understand the significance of key design parameters. An outline for a water-based fluid management scheme within a traditional fracture design process was also presented along with concerns
 within challenging and evolving markets such as the Middle East.
+
+
 Although there is no single solution to the challenges identified in this study, a workflow tailored to the region may assist in a more efficient and reliable approach. Enhancing existing methodologies and incorporating the key parameters noted above can contribute to the overall value chain.
